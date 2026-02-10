@@ -2,7 +2,7 @@
 
 👀 I’m interested in software engineering, app development, and AI/LLMs
 
-🌱 I’m currently learning Microsoft BizTalk as an Enterprise Service Bus and exploring TIBCO & AI tools
+🌱 I’m currently Working on Microsoft BizTalk as an Enterprise Service Bus and exploring TIBCO & AI tools
 
 💻 I also enjoy building Windows apps (C#/.NET) and experimenting with homelab setups
 
